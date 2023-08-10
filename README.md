@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+
+This is just a test I made to learn about branches and commites
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
